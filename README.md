@@ -1,6 +1,5 @@
 # Demo
 This is my first Git repository.
 <br>
-Author-Akshat $$
-**Upadhyay**
-$$
+Author-Akshat **Upadhyay**
+
